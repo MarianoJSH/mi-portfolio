@@ -1,0 +1,33 @@
+<div class="max-w-4xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
+  <h2 class="text-3xl font-bold text-teal-400 mb-8">Proyectos</h2>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div
+      *ngFor="let project of projects"
+      class="bg-gray-800 p-6 rounded-lg shadow-lg hover:shadow-teal-500/30 transition-shadow duration-300"
+      data-aos="fade-up"
+    >
+      <h3 class="text-xl font-semibold text-white mb-2">{{ project.title }}</h3>
+      <p class="text-gray-300 mb-4">{{ project.description }}</p>
+
+      <div class="flex flex-wrap gap-2 mb-4">
+        <span
+          *ngFor="let tech of project.stack"
+          class="bg-teal-600 text-white text-sm px-2 py-1 rounded-full"
+        >
+          {{ tech }}
+        </span>
+      </div>
+
+      <div class="flex space-x-4">
+        <a
+          *ngIf="project.demo"
+          [href]="project.demo"
+          target="_blank"
+          class="text-teal-400 hover:underline"
+          >Demo</a
+        >
+      </div>
+    </div>
+  </div>
+</div>
