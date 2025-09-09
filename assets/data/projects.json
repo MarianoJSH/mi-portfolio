@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Proyecto Angular | Gestor de Tareas filtros, notas, buscador dinámico...",
+        "description": "Un gestor de tareas desarrollado con Angular, pensado para mejorar la organización diaria de tareas, explorando funcionalidades modernas y una interfaz agradable.",
+        "stack": ["Angular", "CSS", "TypeScript", "Git - Github", "Testing: Jasmine - Karma"],
+        "demo": "https://marianojsh.github.io/motix/"
+    },
+
+    {
+        "title": "Evento feria SPORTCITIES",
+        "description": "Desarrollo web íntegro para SPORTCITIES, una feria enfocada al mundo del bienestar y fitness, organizado por el operador ferial Show2be. La web fue desarrollada usando el paradigma MVC.",
+        "stack": ["PHP", "CSS", "HTML", "JavaScript", "JQuery"],
+        "demo": "https://show2be.com/sportcities"
+    },
+
+    {
+        "title": "Generador de Paletas de Colores",
+        "description": "Un proyecto full-stack donde utilicé Angular para crear una interfaz de usuario intuitiva para la generación de paletas de colores. El backend, desarrollado con Node.js y desplegado en Render, se encarga de comunicar con la API de Colormind.",
+        "stack": ["Angular", "CSS", "TypeScript", "Git - Github", "NodeJS", "Express", "RESTful APIS", "Render"],
+        "demo": "https://marianojsh.github.io/palette_generator/"
+    },
+
+    {
+        "title": "Proyecto Web: Juego de Heads or Tails Interactivo",
+        "description": "Desarrollé una aplicación web interactiva de Cara o Cruz utilizando HTML, CSS y JavaScript. Este proyecto permite a los usuarios simular el lanzamiento de una moneda haciendo clic en la imagen de la misma o en un botón de RANDOM, mostrando aleatoriamente el resultado (cara o cruz) con una animación de flip",
+        "stack": ["HTML", "CSS", "JavaScript", "Git - Github"],
+        "demo": "https://marianojsh.github.io/flip-coin/"
+    },
+
+    {
+        "title": "Diseño y desarrollo web para Centro de Educación Infantil Teletubbies",
+        "description": "El cliente precisaba de un rediseño completo de su anterior web para cumplir con los requerimientos de las inspecciones de la Junta de Andalucía, en materia de contenido digital.",
+        "stack": ["WordPress", "CSS", "Elementor", "JavaScript"],
+        "demo": "https://ceiteletubbies.es/"
+    }
+]
