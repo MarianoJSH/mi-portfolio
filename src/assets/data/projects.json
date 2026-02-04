@@ -11,7 +11,7 @@
       "description": "Aplicación web ligera construida mediante Web Components nativos. Permite el cálculo dinámico de gratificaciones y la división de cuentas en tiempo real, utilizando un sistema de renderizado eficiente y estilos encapsulados (Shadow DOM).",
       "stack": ["Lit", "JavaScript", "CSS3", "HTML5"],
       "demo": "https://marianojsh.github.io/calculador_propinas/"
-    }
+    },
 
     {
         "title": "Evento feria SPORTCITIES",
