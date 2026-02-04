@@ -7,6 +7,13 @@
     },
 
     {
+      "title": "Calculadora de Propinas Pro",
+      "description": "Aplicación web construida mediante Web Components nativos. Permite el cálculo dinámico de gratificaciones y la división de cuentas en tiempo real, utilizando un sistema de renderizado eficiente y estilos encapsulados (Shadow DOM).",
+      "stack": ["Lit", "JavaScript", "CSS3", "HTML5"],
+      "demo": "https://marianojsh.github.io/calculador_propinas/"
+    },
+
+    {
         "title": "Evento feria SPORTCITIES",
         "description": "Desarrollo web íntegro para SPORTCITIES, una feria enfocada al mundo del bienestar y fitness, organizado por el operador ferial Show2be. La web fue desarrollada usando el paradigma MVC.",
         "stack": ["PHP", "CSS", "HTML", "JavaScript", "JQuery"],
