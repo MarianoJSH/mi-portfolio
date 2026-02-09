@@ -1,5 +1,12 @@
 [
     {
+        "title": "LegalLens | Analizador de textos legales con IA integrada",
+        "description": "LegalLens AI es una aplicación Full-Stack que utiliza Inteligencia Artificial de última generación para analizar contratos legales en segundos, identificando cláusulas de riesgo y sugiriendo mejoras para proteger al usuario.",
+        "stack": ["Angular", "Tailwind", "TypeScript", "Git - Github", "Testing: Jasmine - Karma", "NestJS"],
+        "demo": "https://legal-lens-jade.vercel.app/"
+    },
+    
+    {
         "title": "Proyecto Angular | Gestor de Tareas filtros, notas, buscador dinámico...",
         "description": "Un gestor de tareas desarrollado con Angular, pensado para mejorar la organización diaria de tareas, explorando funcionalidades modernas y una interfaz agradable.",
         "stack": ["Angular", "CSS", "TypeScript", "Git - Github", "Testing: Jasmine - Karma"],
