@@ -1,5 +1,12 @@
 [
   {
+      "title": "SentinelCode AI | Auditoría de Seguridad y Calidad de Código",
+      "description": "SentinelCode es una plataforma Full-Stack que integra modelos de lenguaje avanzado (LLMs) para auditar código fuente en tiempo real. La herramienta identifica vulnerabilidades críticas, malas prácticas y sugiere optimizaciones de seguridad para fortalecer el ciclo de desarrollo.",
+      "stack": ["Angular", "Tailwind", "TypeScript", "NestJS", "LangChain", "Groq AI", "Git - GitHub"],
+      "demo": "https://sentinelcode.vercel.app/"
+  },
+  
+  {
       "title": "LegalLens | Analizador de textos legales con IA integrada",
       "description": "LegalLens AI es una aplicación Full-Stack que utiliza Inteligencia Artificial de última generación para analizar contratos legales en segundos, identificando cláusulas de riesgo y sugiriendo mejoras para proteger al usuario.",
       "stack": ["Angular", "Tailwind", "TypeScript", "Git - Github", "Testing: Jasmine - Karma", "NestJS"],
